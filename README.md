@@ -70,9 +70,6 @@ Each model was evaluated using:
 | K-Nearest Neighbors | 93.33% | 94.44% | 93.33% | 93.27% |
 | Support Vector Machine | 96.67% | 96.97% | 96.67% | 96.66% |
 
-## Model Accuracy Chart
-
-
 
 ## Model Results
 
