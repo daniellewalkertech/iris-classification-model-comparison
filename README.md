@@ -70,6 +70,36 @@ Each model was evaluated using:
 | K-Nearest Neighbors | 93.33% | 94.44% | 93.33% | 93.27% |
 | Support Vector Machine | 96.67% | 96.97% | 96.67% | 96.66% |
 
+## Model Results
+
+### Overall Model Comparison
+
+![Model Performance Comparison](images/model-comparison.png)
+
+### Decision Tree
+
+![Decision Tree Results](images/decision-tree-results.png)
+
+### Rule-Based Classifier
+
+![Rule-Based Classifier Results](images/rule-based-results.png)
+
+### Gaussian Naive Bayes
+
+![Naive Bayes Results](images/naive-bayes-results.png)
+
+### Logistic Regression
+
+![Logistic Regression Results](images/logistic-regression-results.png)
+
+### K-Nearest Neighbors
+
+![KNN Results](images/knn-results.png)
+
+### Support Vector Machine
+
+![SVM Results](images/svm-results.png)
+
 ## Key Findings
 
 Decision Tree, Rule-Based Classification, Gaussian Naive Bayes, and Support Vector Machine produced the highest accuracy at approximately 96.7%.
