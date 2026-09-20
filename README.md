@@ -72,7 +72,7 @@ Each model was evaluated using:
 
 ## Model Accuracy Chart
 
-![Model Accuracy Chart](images/model-accuracy-chart.png)
+
 
 ## Model Results
 
